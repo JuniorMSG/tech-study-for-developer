@@ -15,8 +15,6 @@
 
 
 ## 1. common
-### 📌  JAVA
-* JVM 메모리에 대하여
 
 [뒤로](README.md) / [위로](#tech-study-for-developer)
 
@@ -33,6 +31,13 @@
 
 
 
-## 3
+## 3. Language
+### 📌  JAVA
+* JVM 메모리에 대하여
+
+
+### 📌  Python 
+* [GC란 무엇인가?]
+
 [뒤로](README.md) / [위로](#tech-study-for-developer)
 
