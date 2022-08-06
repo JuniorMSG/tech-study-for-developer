@@ -33,7 +33,9 @@
 
 ## 3. Language
 ### 📌  JAVA
-* JVM 메모리에 대하여
+* [JVM 메모리에 대하여](Language-java/JVM_Memory.md)
+* [Generic](Language-java/Generic.md)
+* [OOP](Language-java/OOP.md)
 
 
 ### 📌  Python 
