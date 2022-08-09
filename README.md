@@ -15,24 +15,35 @@
 
 
 ## 1. common
-### 📌  JAVA
-* JVM 메모리에 대하여
 
 [뒤로](README.md) / [위로](#tech-study-for-developer)
 
 ## 2. BackEnd 
 
+### 📌 Differnece
+* [스프링과 장고](BackEnd-Difference/spring-vs-django.md)
 
 ### 📌  스프링 (Spring)
+<<<<<<< HEAD
 * 
+=======
+>>>>>>> 329e854bbe5f3d5e629808c766ddaf6ef6f2a54e
 * 스프링에서의 예외처리
 * ORM / DBMS
-
 
 [뒤로](README.md) / [위로](#tech-study-for-developer)  
 
 
 
-## 3
+## 3. Language
+### 📌  JAVA
+* [JVM 메모리에 대하여](Language-java/JVM_Memory.md)
+* [Generic](Language-java/Generic.md)
+* [OOP](Language-java/OOP.md)
+
+
+### 📌  Python 
+* [GC란 무엇인가?]
+
 [뒤로](README.md) / [위로](#tech-study-for-developer)
 
